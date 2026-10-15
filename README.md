@@ -1,16 +1,12 @@
-# Welcome to Chunfu927's GitHub! 👋
+# Welcome to Chun-Fu's GitHub! 👋
 - 👋 Hi, I’m @Chunfu927
 
-Hi there! I'm Chunfu, a passionate student with a keen interest in full stack developement, AI, machine learning. I love exploring new technologies and building innovative projects. Here, you'll find a collection of my work, including open-source projects, experiments, and contributions to the community.
+Hi there! I'm Chun-Fu, an Applied Data Science master's student at the University of Southern California. I'm interested in data science, machine learning, and AI, and I enjoy exploring new ideas and improving my skills along the way.
 
 ## About Me
 
-- 🌱 I’m currently learning advanced AI techniques and improving my coding skills.
-- 💼 I’m open to collaboration on exciting projects and research in AI and mobile development.
-- 📫 How to reach me: [Email](mailto:liualbert777@gmail.com) | [LinkedIn]()
-- 🌐 Visit my [personal website]() for more information about my work and projects.
+- 🌱 I'm currently learning more about machine learning and data management.
+- 🤝 I'm happy to connect with people who share an interest in data science and AI.
+- 📫 Reach me by [email](mailto:liualbert777@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/chun-fu-liu-97298b395/).
 
-
----
-
-Thank you for visiting my GitHub profile! I hope you find my projects interesting and useful. Let's connect and collaborate on exciting projects! 🚀
+Thanks for visiting! 🚀
